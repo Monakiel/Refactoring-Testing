@@ -1,7 +1,12 @@
+# Project 8 - Take and improve an existing project
+
+## Evaluated skills
+- Fixing existing bugs.
+- Refactoring and testing the code with Jasmine.
+- Improving the app performances.
+
+
 # Projet 8 - Reprenez et améliorez un projet existant
-Fixing bugs. Refactoring. Improving it.
-
-
 
 ## Compétences évaluées
 
